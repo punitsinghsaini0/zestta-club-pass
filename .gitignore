@@ -1,0 +1,10 @@
+vendor/
+composer.lock
+writable/cache/*
+writable/logs/*
+!writable/cache/.gitkeep
+!writable/logs/.gitkeep
+
+*.log
+.idea/
+.DS_Store
